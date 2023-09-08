@@ -1,0 +1,33 @@
+/* Heading Styles Begin Here */
+
+h2 {
+    color: blue;
+    font-family: sans-serif;
+    font-size: larger;
+    background-color: turquoise;
+}
+
+.custards {
+    text-decoration: underline;
+}
+
+h3 {
+    color: palevioletred; 
+    font-family: serif; 
+    font-size: large;
+    background-color: lavenderblush;
+}
+
+/* Paragraph Styles Begin Here */
+p {
+    text-align: justify;
+    text-decoration-line: underline;
+    text-decoration-color: teal;
+}
+
+/* List Styles Begin Here */
+ol {
+    color: plum;
+    background-color: lightyellow;
+    list-style-type: upper-roman; 
+}
